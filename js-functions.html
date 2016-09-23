@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>js-functions</title>
+</head>
+<body id="main">
+<script>
+    var main = document.getElementById('main');
+    var log = [];
+    log.push('<pre>');
+
+    log.push(declaration());
+    function declaration(){
+        return "declaration";
+    }
+
+    var expression = function(){
+        return "expression";
+    }
+
+    log.push(expression());
+
+    var myobject = {
+        property:function(){
+            return "preperty";
+        }
+    }
+    log.push(myobject.property());
+
+    log.push('</pre>');
+    main.innerHTML = log.join('<br>');
+</script>
+</body>
+</html>
