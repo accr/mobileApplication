@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="579e0db6-d355-4d32-a3f3-9249ab156411" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/draw/draw-tracer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/draw/draw-tracer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/draw/draw.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="579e0db6-d355-4d32-a3f3-9249ab156411" name="Default" comment="" />
     <ignored path="Mobile Application.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -189,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="I:/music" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -262,12 +256,12 @@
       <updated>1474562962641</updated>
       <workItem from="1474562964235" duration="1913000" />
       <workItem from="1474632268910" duration="3669000" />
-      <workItem from="1474894732006" duration="1773000" />
+      <workItem from="1474894732006" duration="2978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7355000" />
+    <option name="totallyTimeSpent" value="8560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-2" width="1378" height="744" extended-state="0" />
